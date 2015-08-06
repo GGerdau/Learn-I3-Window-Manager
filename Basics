@@ -2,3 +2,15 @@
 I3 is a pretty easy to use window manager, what makes it tricky is that people put in settings without a full understanding of their actoins
 
 I'm here to make i3 the easy to use Window Manager, make it faster for you, and in the end to give you a better computing experiance.
+
+So first of all you will have to download i3
+For you ubuntu based users that will be:
+sudo apt-get install i3 -y
+
+After you have that done open up a new X session by hitting CTRL+ALT+F1 (to get back to your old one hit CTRL+ALT+F7)
+From here you need to login
+once you're logged in, type in:
+startx i3
+
+This will start up i3, you're not using i3.
+The next 
